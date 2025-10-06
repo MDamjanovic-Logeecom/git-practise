@@ -1,1 +1,2 @@
-Ovo je izmenjeni fajl
+Ovo je izmenjeni fajl,
+a ovo forkovana promena.
